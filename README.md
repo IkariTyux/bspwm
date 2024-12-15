@@ -1,5 +1,5 @@
 # bspwm
-[rice](.img/rice.png)
+![rice](.img/rice.png)
 
 # Dependencies
 ## Rice composition
@@ -19,4 +19,4 @@
 - **Terminal:** [Tokyonight Storm](https://github.com/davidmathers/tokyo-night-kitty-theme)
 
 # Polybar
-[polybar](.img/polybar.png)
+![polybar](.img/polybar.png)
